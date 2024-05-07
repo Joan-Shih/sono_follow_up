@@ -1,0 +1,9 @@
+- Insert image with dev with relative postion, set width and height
+- Add multiple dev block for click seperation, with absoluate position, set width, heigth and rotate
+- jQuery for click event, show sono image, click again to hide sono image
+
+Ref
+https://www.w3schools.com/css/css_boxmodel.asp
+https://www.w3schools.com/css/css_positioning.asp
+https://www.w3schools.com/html/html_images_background.asp
+https://www.w3schools.com/jquery/jquery_selectors.asp
